@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kukaj.io" name="Kukaj.io" version="0.0.1" provider-name="KoSA Inc.">
+    <requires></requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Kukaj.io Player by KoSA</summary>
+        <description lang="en">A KODI addon for a free streaming site Kukaj.io by KoSA.
+    </description>
+        <license>GNU General Public License, v2</license>
+        <language></language>
+        <forum></forum>
+        <source></source>
+        <email>zendro.kosa@gmail.com</email>
+    </extension>
+
+</addon>
